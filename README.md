@@ -37,8 +37,8 @@ Any advise for common problems or issues go to my blog site: https://hgminerva.w
 
 Contributors names and contact info
 
-ex. HGMinerva  
-ex. [@hgminerva](https://twitter.com/hgminerva)
+HGMinerva (https://hgminerva.wordpress.com/)  
+[@hgminerva](https://twitter.com/hgminerva)
 
 ## Version History
 
