@@ -32,9 +32,6 @@ cargo run
 ## Help
 
 Any advise for common problems or issues go to my blog site: https://hgminerva.wordpress.com/
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
